@@ -16,3 +16,7 @@ Software
 - Dispositivo Fisico - o primeiro a conectar é o emulator5552
 - Remoto (Emulador / Dispositivos) --> device farm
 Saucelabs / Brow
+
+
+git config --global user.email "cele.mafredim@gmail.com"
+git config --global user.name "Mjardim"
